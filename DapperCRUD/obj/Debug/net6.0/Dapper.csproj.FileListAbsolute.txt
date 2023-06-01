@@ -1,0 +1,7 @@
+E:\Task\Dapper\DapperCRUD\obj\Debug\net6.0\Dapper.csproj.AssemblyReference.cache
+E:\Task\Dapper\DapperCRUD\obj\Debug\net6.0\Dapper.GeneratedMSBuildEditorConfig.editorconfig
+E:\Task\Dapper\DapperCRUD\obj\Debug\net6.0\Dapper.AssemblyInfoInputs.cache
+E:\Task\Dapper\DapperCRUD\obj\Debug\net6.0\Dapper.AssemblyInfo.cs
+E:\Task\Dapper\DapperCRUD\obj\Debug\net6.0\Dapper.csproj.CoreCompileInputs.cache
+E:\Task\Dapper\DapperCRUD\obj\Debug\net6.0\Dapper.MvcApplicationPartsAssemblyInfo.cs
+E:\Task\Dapper\DapperCRUD\obj\Debug\net6.0\Dapper.MvcApplicationPartsAssemblyInfo.cache
